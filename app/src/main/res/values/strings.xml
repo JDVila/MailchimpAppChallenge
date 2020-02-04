@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mailchimp API Lists Members</string>
+    <string name="member_detail_profile_image">Member Detail Profile Image</string>
+    <string name="member_list_member_icon_image">Member List Member Icon Image</string>
+    <string name="update_confirmation_positive">Edit Saved!</string>
+    <string name="update_confirmation_negative">Could Not Save Changes - Please Try Again Later.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="edit">EDIT</string>
+    <string name="save">SAVE</string>
+    <string name="fname_key">FNAME</string>
+    <string name="lname_key">LNAME</string>
+    <string name="email_address_key">email_address</string>
+    <string name="merge_fields_key">merge_fields</string>
+    <string name="base_url">https://us14.api.mailchimp.com</string>
+    <string name="authorization_header_key">Authorization</string>
+    <string name="authorization_prefix">apikey</string>
+    <string name="invalid_image_url_error">Error - Image URL invalid!</string>
+    <string name="null_photo_url_placeholder">https://s3.amazonaws.com/www-inside-design/uploads/2018/10/mailchimp-sq-810x810.jpg</string>
+    <string name="member_list_fragment_tag">memberListFragment</string>
+    <string name="member_detail_fragment_tag">memberDetailFragment</string>
+    <string name="invalid_list_item_view_type_error">Error - \'viewType\' neither Title nor Member!</string>
+</resources>
